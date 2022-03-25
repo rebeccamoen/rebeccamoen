@@ -25,6 +25,7 @@ __<p align="center"> 👸 Rebecca Moen | 🎓 MSc ICT | 🌍 Norway </p>__
 
 ### __Most used languages__
 [![Top Langs](https://github-readme-stats-rebeccamoen.vercel.app/api/top-langs/?username=rebeccamoen&layout=compact&count_private=true&exclude_repo=github-readme-stats&&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- https://vercel.com/dashboard -->
 
 <!--
 **rebeccamoen/rebeccamoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
