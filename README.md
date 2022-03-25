@@ -13,6 +13,7 @@ __<p align="center"> 👸 Rebecca Moen | 🎓 MSc ICT | 🌍 Norway </p>__
 - 👩‍🎓 __Previously:__ BSc in Computer Engineering
 - ✨ __Interests:__ Artificial Intelligence, philosophy, and video games
 - 🎮 __Favorite games:__ Animal Crossing, Dead by Daylight, and Stardew Valley
+- 💬 __Fun fact:__  I've watched 1434 movies and 285 series
 
 #
   
