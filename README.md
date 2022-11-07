@@ -9,8 +9,8 @@ __<p align="center"> 👸 Rebecca Moen | 🎓 MSc ICT | 🌍 Norway </p>__
 - 👸 __Pronouns:__ she/her
 - 🌱 __Age:__ 26 years old
 - 🏡 __Location:__ [Norway](https://google.com/maps/place/Norway)
-- 🎓 __Currently:__ MSc in Information and Communication Technology
-- 👩‍🎓 __Previously:__ BSc in Computer Engineering
+- 🎓 __Education:__ BSc in Computer Engineering, MSc in Information and Communication Technology
+- 💼 __Work:__ Data Analytics Consultant
 - ✨ __Interests:__ Artificial Intelligence, philosophy, and video games
 - 🎮 __Favorite games:__ Animal Crossing, Dead by Daylight, and Stardew Valley
 - 💬 __Fun fact:__  I've watched 1434 movies and 285 series in my lifetime
