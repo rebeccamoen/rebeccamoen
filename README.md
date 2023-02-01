@@ -23,6 +23,12 @@ __<p align="center"> 👸 Rebecca Moen | 🎓 MSc ICT | 🌍 Norway </p>__
 - 🦭 __Project:__ Detecting and Classifying Hawaiian Monk Seal Vocalizations using CNNs
 
 #
+  
+### __Publications__
+
+- 📑 __IEEE Sensors Journal:__ Classification of UAVs Utilizing Fixed Boundary Empirical Wavelet Sub-Bands of RF Fingerprints and Deep Convolutional Neural Network <code>DOI: 10.1109/JSEN.2022.3208518</code>
+
+#
 
 ### __Most used languages__
 [![Top Langs](https://github-readme-stats-rebeccamoen.vercel.app/api/top-langs/?username=rebeccamoen&layout=compact&count_private=true&exclude_repo=github-readme-stats&&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) 
