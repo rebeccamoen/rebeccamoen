@@ -12,8 +12,8 @@ __<p align="center"> 👸 Rebecca Moen | 🎓 MSc ICT | 🌍 Norway </p>__
 - 🎓 __Education:__ BSc in Computer Engineering, MSc in Information and Communication Technology
 - 💼 __Work:__ Data Analytics Consultant
 - ✨ __Interests:__ Artificial Intelligence, philosophy, and video games
-- 🎮 __Favorite games:__ Animal Crossing, Dead by Daylight, Stardew Valley, and Valorant
-- 💬 __Fun fact:__  I've watched 1463 movies and 293 series in my lifetime
+- 🎮 __Favorite games:__ Animal Crossing, Dead by Daylight, Stardew Valley, League of Legends, and Valorant
+- 💬 __Fun fact:__  I've watched 1549 movies and 327 series in my lifetime
 
 #
   
