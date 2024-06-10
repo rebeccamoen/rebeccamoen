@@ -18,7 +18,7 @@ __<p align="center"> 👸 Rebecca Moen | 🎓 MSc ICT | 🌍 Norway </p>__
 #
   
 ### __What I'm working on__
-- 📜 __Certifications:__ <code>AZ900</code>✅ and <code>AZ104</code>🟩
+- 📜 __Certifications:__ <code>AZ900</code>✅, <code>DP900</code>✅, <code>AI900</code>✅, <code>SnowPro Core</code>✅, <code>CompTIA Data+</code>✅, <code>AZ104</code>🟩
 - 📚 __Learning more about and studying:__ <code>Deep Learning</code>, <code>Python</code> and <code>SQL</code>
 - 🦭 __Project:__ Detecting and Classifying Hawaiian Monk Seal Vocalizations using CNNs
 
